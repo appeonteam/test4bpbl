@@ -3,4 +3,5 @@
  "1.pbl" "";
 @end;
 @begin Objects 
+ "w_1.srw" "1.pbl";
 @end;
