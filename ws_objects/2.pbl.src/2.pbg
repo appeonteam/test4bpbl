@@ -3,4 +3,5 @@
  "2.pbl" "";
 @end;
 @begin Objects 
+ "w_2.srw" "2.pbl";
 @end;
